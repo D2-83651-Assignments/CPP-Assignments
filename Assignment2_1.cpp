@@ -89,8 +89,8 @@ int main()
             cout<<"\nEnter height : ";
             cin>>height;
             b1.setLength(length);
-             b1.setWidth(width);
-             b1.setHeight(height);
+            b1.setWidth(width);
+            b1.setHeight(height);
             break;
         case 2:
             b1.calculateVolume(length,width,height);
